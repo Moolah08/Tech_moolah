@@ -1,2 +1,2 @@
 # Tech_moolah
-It's all about web development
+Currently verified developer on CryptoTask.
